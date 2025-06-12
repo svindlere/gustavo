@@ -10,7 +10,7 @@
 
 <body>
     <header>
-        <img src="img/avatar-perfil.png" alt="avatar da Fernanda" srcset="">
+        <img src="img/avatar-perfil.png" alt="avatar do gustavo" srcset="">
         <p>Eu sou Gustavo_</p>
         <h1>Eu estudo programação</h1>
         <p>Sou aluno de programação!</p>
